@@ -25,7 +25,7 @@ Display list of restaurants nearby based on localization achieved.
 [File]->[BuildSettings]
 Select your development platform (Android/iOS) and click [Switch Platform].
 
-## API Key
+## API Key (currently uses my personal API Key which will expire in a few months)
 [Edit]->[ProjectSettings]->[XR Plug-in Management]->[ARCore Extensions]
 Enter an API key created on Google Cloud Platform.
 
