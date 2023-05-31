@@ -90,7 +90,7 @@ namespace Umass_GeospatialAR
                 {
                     placesString += place.name + ":" + place.rating.ToString() + "\n";
                 }
-                ResultsText.SetText(placesString);
+                ResultsText.text = placesString;
             }
         }
     }
