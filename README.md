@@ -11,4 +11,5 @@ https://github.com/google-ar/arcore-unity-extensions/releases/tag/v1.37.0
 ### 0-TrackingStateMonitoring
 
 The latitude, longitude, altitude, and azimuth of your smartphone and the accuracy of these are displayed on a screen.
-![Lat Long Data](1.jpg)
+<img src="/preshmalinetpereira/Geospatial-URP/raw/main/1.jpg" alt="Lat Long Data" style="width: 150px;">
+
