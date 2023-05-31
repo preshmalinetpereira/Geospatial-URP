@@ -23,29 +23,29 @@ namespace Umass_GeospatialAR
         
         // Update is called once per frame
         void Update()
-        { 
-            ////Return if initialization failed or tracking is not available
-            //if (!Initializer.IsReady || EarthManager.EarthTrackingState != TrackingState.Tracking)
-            //{
-            //    return;
-            //}
-            ////Tracking status to be displayed
-            //string status = "";
-            ////Get the tracking result
-            //GeospatialPose pose = EarthManager.CameraGeospatialPose;
-            ////The case where the tracking accuracy is worse than the threshold (the value is large)
-            //if (pose.OrientationYawAccuracy > HeadingThreshold ||
-            //     pose.HorizontalAccuracy > HorizontalThreshold)
-            //{
-            //    status = "Low Tracking Accuracy： Please look arround.";
-            //}
-            //else //The case where the tracking accuracy is better than the threshold (the value is small)
-            //{
-            //    status = "High Tracking Accuracy";
-            //}
+        {
+            //Return if initialization failed or tracking is not available
+            if (!Initializer.IsReady || EarthManager.EarthTrackingState != TrackingState.Tracking)
+            {
+                return;
+            }
+            //Tracking status to be displayed
+            string status = "";
+            //Get the tracking result
+            GeospatialPose pose = EarthManager.CameraGeospatialPose;
+            //The case where the tracking accuracy is worse than the threshold (the value is large)
+            if (pose.OrientationYawAccuracy > HeadingThreshold ||
+                 pose.HorizontalAccuracy > HorizontalThreshold)
+            {
+                status = "Low Tracking Accuracy： Please look arround.";
+            }
+            else //The case where the tracking accuracy is better than the threshold (the value is small)
+            {
+                status = "High Tracking Accuracy";
+            }
             //Show the result
-            //ShowTrackingInfo(status, pose);
-            
+            ShowTrackingInfo(status, pose);
+
         }
 
         void ShowTrackingInfo(string status, GeospatialPose pose)
