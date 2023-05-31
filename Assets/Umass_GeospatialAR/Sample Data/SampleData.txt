@@ -1,0 +1,608 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4095851,
+               "lng" : -72.53060930000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.41088617989272,
+                  "lng" : -72.52935787010728
+               },
+               "southwest" : {
+                  "lat" : 42.40818652010728,
+                  "lng" : -72.53205752989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "House of Teriyaki",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 763,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116820675372315357999\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0lya5eb71VC7uupuIKD11YPMvAFGoBxPowqB2U6r3njjhZuAey-AeoqP9V4AZyovHrZsmVZZhpzf0XW3my_4rsuMd4-9oK7MWzM11I1Cx4LYd0J4Cv1aJW7v2xR8AouHrrpKBaTtGyBhIeEAoJfhDR1hIsZvHRJHZCQw96QokHaEbTB",
+               "width" : 1357
+            }
+         ],
+         "place_id" : "ChIJVQjRvIXS5okRTYqfalbuwsA",
+         "plus_code" : {
+            "compound_code" : "CF59+RQ Amherst, Massachusetts",
+            "global_code" : "87J9CF59+RQ"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJVQjRvIXS5okRTYqfalbuwsA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 268,
+         "vicinity" : "1177 N Pleasant St, Amherst"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3917819,
+               "lng" : -72.52700949999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.39316832989272,
+                  "lng" : -72.52522657010728
+               },
+               "southwest" : {
+                  "lat" : 42.39046867010727,
+                  "lng" : -72.52792622989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Bamboo at Chef's Table",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJO_slt3DS5okR2NoLUui7FH4",
+         "plus_code" : {
+            "compound_code" : "9FRF+P5 Amherst, Massachusetts",
+            "global_code" : "87J99FRF+P5"
+         },
+         "rating" : 0,
+         "reference" : "ChIJO_slt3DS5okR2NoLUui7FH4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "1 Campus Center Way, Amherst"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4153427,
+               "lng" : -72.53045469999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.41669122989271,
+                  "lng" : -72.52910532010728
+               },
+               "southwest" : {
+                  "lat" : 42.41399157010727,
+                  "lng" : -72.53180497989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Cisco\u2019s Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2461,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102533516714851199519\"\u003eLayannie Haydon-Mayer\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0lWvcqFHO2_1t5o5NmNwaxNP3d6NsQd2_EnReArZCNKUpBoFKvN53EC-1yl7SaGLqhCAnmfYZg1KLOEKIYnAj_eOHOWGhYy4JjjMLQYe2Kn2IAn9IBQgx6PjLRYegfhKmA785yv68F6CYaGkZFqF-pBWUsi5XbXLx8fwG2OyqVYoT7v",
+               "width" : 2469
+            }
+         ],
+         "place_id" : "ChIJ462PM9jT5okR4oUKMlvsGEw",
+         "plus_code" : {
+            "compound_code" : "CF89+5R Amherst, Massachusetts",
+            "global_code" : "87J9CF89+5R"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ462PM9jT5okR4oUKMlvsGEw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 30,
+         "vicinity" : "The Mill District, 68 Cowls Rd, Amherst"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4109234,
+               "lng" : -72.5302626
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.41237622989272,
+                  "lng" : -72.52893042010727
+               },
+               "southwest" : {
+                  "lat" : 42.40967657010727,
+                  "lng" : -72.53163007989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Amherst House Of Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116180435253482878496\"\u003eAmherst House Of Pizza\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0moY6RbudHStHCuU3YL6Qf0IKhz3gZ_q5iEOkJx4BhObX1zQ0ywEuxcxgvLYGPL6jgp4TnZZZaPze7tLv52ck7elpMg61k03pl1sauJdyidgyzpDhIU7t59LxxSF7EunmFGPh3gUpx461zCcJroG7zPuTIq8L9EJY1x0ICfQNPdJldG",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJzQcFE4XS5okR6f9dtuuQ4us",
+         "plus_code" : {
+            "compound_code" : "CF69+9V Amherst, Massachusetts",
+            "global_code" : "87J9CF69+9V"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJzQcFE4XS5okR6f9dtuuQ4us",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 272,
+         "vicinity" : "17 Montague Rd, Amherst"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.391778,
+               "lng" : -72.526988
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.39316352989272,
+                  "lng" : -72.52521537010729
+               },
+               "southwest" : {
+                  "lat" : 42.39046387010728,
+                  "lng" : -72.52791502989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Grill",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104869756419988332618\"\u003echagenindia\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0mrkq5S8TRObSZN0foclQBjM7KtqFBKax_oHXnfOFgSFxdqpXtOL4wFk540hdy4BNe1sXzbCN69iYfrtBBpsBbpUWBrQRv24hc34ZMPTz6cRVasKnpURDk_0ajD9W2Jq_eUPP_M0KZpKxs_W50HunANX5Hh2qHgSIadu2VvGNDOgn1V",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJwXFIt3DS5okRVqsSvLYPEFg",
+         "plus_code" : {
+            "compound_code" : "9FRF+P6 Amherst, Massachusetts",
+            "global_code" : "87J99FRF+P6"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJwXFIt3DS5okRVqsSvLYPEFg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "1 Campus Center Way, Amherst"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3932967,
+               "lng" : -72.52550549999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.39464712989272,
+                  "lng" : -72.52415767010727
+               },
+               "southwest" : {
+                  "lat" : 42.39194747010728,
+                  "lng" : -72.52685732989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Commonwealth Restaurant at UMass Amherst",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103445989446648188626\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0lgcLmhp0omlW3UIYdey046_L4GcmG04qxdPtZ7QwbfEoMHH0f2jcGUUvG3dKoKBia2hE2zJF2vRgVpDfXTe3-AUt82Rjb8lA0kRjpAra7RaxhezcJKH19EmT7Rp7mTumJNYX8Uv6LEHnWdt_puSoUpqEwwSvuGuhU53ZnrXi6ifukN",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ32vlHdXT5okRjOSraBASH38",
+         "plus_code" : {
+            "compound_code" : "9FVF+8Q Amherst, Massachusetts",
+            "global_code" : "87J99FVF+8Q"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ32vlHdXT5okRjOSraBASH38",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "667 N Pleasant St, Amherst"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.391778,
+               "lng" : -72.5270068
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.39316432989271,
+                  "lng" : -72.52522487010728
+               },
+               "southwest" : {
+                  "lat" : 42.39046467010727,
+                  "lng" : -72.52792452989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Tamales",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2934,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117267522329134204967\"\u003eGeoffrey Zub\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0myB2hz8c0KZUsJ1-ec1vVE0KJNcsqzeKqyBqO3x8IhKO5PhLwmx8BgWUIUoWkNA0UnzAAxf79nbljlz4JcZbKr-u0MYVRfMGCzWZs3z9l13G4byHfxe6vnzNazppCxb7OiHHoBh345KCahZ_Ritp-mtn9oMHnA5r9W7UUebtwtbljU",
+               "width" : 3912
+            }
+         ],
+         "place_id" : "ChIJBUzxuXDS5okRQXU7jA8OGjI",
+         "plus_code" : {
+            "compound_code" : "9FRF+P5 Amherst, Massachusetts",
+            "global_code" : "87J99FRF+P5"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJBUzxuXDS5okRQXU7jA8OGjI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "1 Campus Center Way, Amherst"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.415661,
+               "lng" : -72.53291399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.41709102989272,
+                  "lng" : -72.53153082010728
+               },
+               "southwest" : {
+                  "lat" : 42.41439137010728,
+                  "lng" : -72.53423047989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Harp Irish Pub",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100914028707467419692\"\u003eCurt Raffi\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0kOLWAfQiwF_T2E24fUVBQ7_hJ8pbvJ70SEwl8Qis1DyqV0K7w3QlgdoCrfEIvmV0Nbw2GoMPHlKL5mWTnF6vDOKEB7Wpj3P7NPGUCgBvdaD4UUDnMp_wAXGW_S1_1D8sgGvOZcrWhS5OJ-m8aZQ_TUVpvqUsDNqlAZ2SxcTEwwYoat",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ8y45hJDS5okRVX5FGQor_-s",
+         "plus_code" : {
+            "compound_code" : "CF88+7V Amherst, Massachusetts",
+            "global_code" : "87J9CF88+7V"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJ8y45hJDS5okRVX5FGQor_-s",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 252,
+         "vicinity" : "163 Sunderland Rd, Amherst"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.391778,
+               "lng" : -72.5270041
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.39316422989272,
+                  "lng" : -72.52522352010729
+               },
+               "southwest" : {
+                  "lat" : 42.39046457010728,
+                  "lng" : -72.52792317989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Blue Wall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115759428832464636831\"\u003eErin Mcgee\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0nKn-YRH58xkMGaVQ00OfRehK6lOpD00ZMA8ounkeOnzatUWNv8-LMuyDqUY3EYKNxFfFJ8Rod9UwQ-9PV8S2vZCUhrA2gbMeLYaX5tSYnqODrkyR1fooi5qZB4_2Ve83CPKx7M3NTlmK4fhYcZyN8paHHTM8NdPxbwNobhjI6bdVpR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJjZX-x3DS5okRPrVEgx1_S6o",
+         "plus_code" : {
+            "compound_code" : "9FRF+P5 Amherst, Massachusetts",
+            "global_code" : "87J99FRF+P5"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJjZX-x3DS5okRPrVEgx1_S6o",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 342,
+         "vicinity" : "1 Campus Center Way, Amherst"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.39168220000001,
+               "lng" : -72.52654149999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.39306552989272,
+                  "lng" : -72.52498357010728
+               },
+               "southwest" : {
+                  "lat" : 42.39036587010728,
+                  "lng" : -72.52768322989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Green Fields",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJZf3HsHDS5okR783Edi5jLlE",
+         "plus_code" : {
+            "compound_code" : "9FRF+M9 Amherst, Massachusetts",
+            "global_code" : "87J99FRF+M9"
+         },
+         "rating" : 0,
+         "reference" : "ChIJZf3HsHDS5okR783Edi5jLlE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "1 Campus Center Way, Amherst"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3915789,
+               "lng" : -72.5265381
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.39299437989273,
+                  "lng" : -72.52497322010727
+               },
+               "southwest" : {
+                  "lat" : 42.39029472010728,
+                  "lng" : -72.52767287989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Wasabi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111897350999112211216\"\u003eaniello siniscalchi\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0k-y7BFxO-1rKMTDUMIiItMeDiT2gwAA89MO1E3o9FprLRZ2Xdh2m8q3fhntLXo5Vdinh41vvLxB-mVrHgAyf2mvzgHdx7qX3tnC1psCmaSmMXK6yJX5OY7ACHC7NdkRruOMKFOuS16TjYdARdM4QKNFO-ZZ9vysBYAml7KuZc3uPA0",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJv2VMyHDS5okRmW4AyWUMcxU",
+         "plus_code" : {
+            "compound_code" : "9FRF+J9 Amherst, Massachusetts",
+            "global_code" : "87J99FRF+J9"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJv2VMyHDS5okRmW4AyWUMcxU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "1 Campus Center Way, Amherst"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.390842,
+               "lng" : -72.52765579999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.39238147989272,
+                  "lng" : -72.5250719
+               },
+               "southwest" : {
+                  "lat" : 42.38968182010727,
+                  "lng" : -72.52851709999997
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Earthfoods Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117578208918650505901\"\u003eMichael Tarselli\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0lVoSRVN1VHG6TU_HdjXBgM_wBO-SCGNcN_FHubgoNzOdsG5jh_ZZUlVDV7htvuTz45i0ooGs50a5SYwYNRfH-CD6Ul1yC1z3gpqd1bJHrfCbGQ3-3oOrNcb6HtYMWLCwtOJBorfZ43wwT9zAd0oec0mPI7iIRmT3xNsaZFrZ-zwHvR",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJY3_L2HDS5okRBdKKEc3YiMA",
+         "plus_code" : {
+            "compound_code" : "9FRC+8W Amherst, Massachusetts",
+            "global_code" : "87J99FRC+8W"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJY3_L2HDS5okRBdKKEc3YiMA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "41 Campus Center Way Ground Floor Rm 260, Amherst"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.39018979999999,
+               "lng" : -72.5192713
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.39147912989272,
+                  "lng" : -72.51791932010727
+               },
+               "southwest" : {
+                  "lat" : 42.38877947010727,
+                  "lng" : -72.5206189798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Greeno Sub Shop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109895575456389109734\"\u003eJared Pearson\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0k2KAP04myeWvcYiXcPkDmJSzsjnrP4gHhbh-Ah8yCzkb0IBnsz6t2xUH0GExY95QU9ZFIMdJBKJy4rEUhKlktb_oIIHdK5DnO0f_hx0h963F1FJ4HmPTl1r5bAextIbpCc8oiVPnIbtFy5jhUwvambSkWDF02TPcbMLRw2W8Embnx3",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ-wjaO4jN5okRGLQz9V5uVGw",
+         "plus_code" : {
+            "compound_code" : "9FRJ+36 Amherst, Massachusetts",
+            "global_code" : "87J99FRJ+36"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJ-wjaO4jN5okRGLQz9V5uVGw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 31,
+         "vicinity" : "120 Greenough Hall Basement, Orchard Hill Dr, Amherst"
+      }
+   ],
+   "status" : "OK"
+}

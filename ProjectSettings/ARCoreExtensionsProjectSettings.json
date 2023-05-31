@@ -1,10 +1,1 @@
-{
-    "Version": "1.31.0",
-    "IsIOSSupportEnabled": false,
-    "AndroidAuthenticationStrategySetting": 2,
-    "AndroidCloudServicesApiKey": "",
-    "IOSAuthenticationStrategySetting": 0,
-    "IOSCloudServicesApiKey": "",
-    "CloudAnchorEnabled": false,
-    "GeospatialEnabled": true
-}
+{"Version":"1.37.0","IsIOSSupportEnabled":true,"AndroidAuthenticationStrategySetting":2,"AndroidCloudServicesApiKey":"AIzaSyAYJdjAF3hQivNs8jZklkAJs03CtPZVc1I","IOSAuthenticationStrategySetting":2,"IOSCloudServicesApiKey":"AIzaSyAYJdjAF3hQivNs8jZklkAJs03CtPZVc1I","CloudAnchorEnabled":false,"GeospatialEnabled":true,"GeospatialEditorEnabled":true}
